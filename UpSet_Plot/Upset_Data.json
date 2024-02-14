@@ -1,5 +1,5 @@
 {
-	"file": "http://vcg.github.io/upset/data/test/test.csv",
+	"file": "https://github.com/DavidGoldLab/2023_Comp_Regen/blob/main/UpSet_Plot/UpSet_Data.txt",
 	"name": "Test",
 	"header": 0,
 	"separator": ";",
