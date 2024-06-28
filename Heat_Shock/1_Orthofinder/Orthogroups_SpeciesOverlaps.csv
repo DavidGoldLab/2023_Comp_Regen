@@ -1,0 +1,6 @@
+	ant_genome.fa.transdecoder	chicken_genome.fa.transdecoder	oyster_transcriptome.fa.transdecoder	salmon_transcriptome.fa.transdecoder	sponge_transcriptome.fa.transdecoder
+ant_genome.fa.transdecoder	6642	5719	6216	6012	4239
+chicken_genome.fa.transdecoder	5719	8935	7119	8522	4820
+oyster_transcriptome.fa.transdecoder	6216	7119	8894	7816	5322
+salmon_transcriptome.fa.transdecoder	6012	8522	7816	9981	5168
+sponge_transcriptome.fa.transdecoder	4239	4820	5322	5168	5754
